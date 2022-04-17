@@ -1,0 +1,17 @@
+{
+  "name": "nodets",
+  "version": "1.0.0",
+  "description": "https://www.twilio.com/blog/2017/06/writing-a-node-module-in-typescript.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:tsc": "tsc",
+    "start": "node ./dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
